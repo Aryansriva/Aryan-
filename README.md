@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aryansriva this is it
+- 👋 Hi, I’m @Aryansriva ,a peacefull soul :)
 - 👀 I’m interested in full stack web development.
 - 🌱 I’m currently learning competitional programming and frontend development.
 - 💞️ I’m looking to collaborate on web development projects.
