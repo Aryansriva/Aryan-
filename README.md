@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me 
 linkedin - https://www.linkedin.com/in/aryan-srivastava-711674205/
-           instagram - https://www.instagram.com/aryu_sriva_02/
+           
 
 <!---
 Aryansriva/Aryansriva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
